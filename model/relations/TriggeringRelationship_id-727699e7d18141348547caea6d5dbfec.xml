@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="indien bedrijfsruimte"
+    id="id-727699e7d18141348547caea6d5dbfec">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-7d01b5971085404f9b6d940c370c049b.xml#id-7d01b5971085404f9b6d940c370c049b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-ae321278f5f24fa891315836464d45db.xml#id-ae321278f5f24fa891315836464d45db"/>
+</archimate:TriggeringRelationship>

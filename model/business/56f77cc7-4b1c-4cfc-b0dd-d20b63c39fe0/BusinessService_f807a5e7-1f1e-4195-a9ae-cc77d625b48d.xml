@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afgebakken brood"
+    id="f807a5e7-1f1e-4195-a9ae-cc77d625b48d">
+  <properties
+      key="CORA concepttype"
+      value="Bedrijfsservice"/>
+</archimate:BusinessService>

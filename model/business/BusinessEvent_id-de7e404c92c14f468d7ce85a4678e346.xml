@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenis (output) [getekende uurovereenkomst]"
+    id="id-de7e404c92c14f468d7ce85a4678e346"
+    documentation="Hier is de gebeurtenis de output van het proces en kan als zodanig aanleiding zijn voor het starten van een ander proces">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Input proces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenis (input) [gegadigde]"
+    id="id-5c02ea01a5a14289a9a34abfaa920301"
+    documentation="Hier is de gebeurtenis aanleiding voor het starten van proces verhuur">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Input proces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gist"
+    id="8d9fe6bf-d0a4-4032-a014-213f673ead57"
+    documentation="Ook dit is een niet noodzakelijk ingredient van brood. Daarom is sprake van een aggeratie">
+  <properties
+      key="CORA concepttype"
+      value="Bedrijfsobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nieuwe dag"
+    id="af3a1219-87bd-46eb-93c3-af03504d5ae1">
+  <properties
+      key="CORA concepttype"
+      value="Gebeurtenis"/>
+</archimate:BusinessEvent>

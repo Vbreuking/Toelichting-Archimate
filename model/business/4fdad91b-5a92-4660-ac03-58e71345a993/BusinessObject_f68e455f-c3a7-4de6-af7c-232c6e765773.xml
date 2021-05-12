@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Boterham"
+    id="f68e455f-c3a7-4de6-af7c-232c6e765773"
+    documentation="Zonder brood kan een boterham niet bestaan. Daarom is hier sprake van een compositie">
+  <properties
+      key="CORA concepttype"
+      value="Bedrijfsobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="indien geen parkeerplaats"
+    id="id-c4ae685e7a4640fba294d87af6557f87">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-beb1ffd296da4fa4b6c181e41d9b2d22.xml#id-beb1ffd296da4fa4b6c181e41d9b2d22"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-7d01b5971085404f9b6d940c370c049b.xml#id-7d01b5971085404f9b6d940c370c049b"/>
+</archimate:TriggeringRelationship>

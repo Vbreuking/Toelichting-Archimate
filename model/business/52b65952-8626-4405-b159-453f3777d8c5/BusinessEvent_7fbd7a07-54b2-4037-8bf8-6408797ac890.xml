@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantvraag"
+    id="7fbd7a07-54b2-4037-8bf8-6408797ac890">
+  <properties
+      key="CORA concepttype"
+      value="Gebeurtenis"/>
+</archimate:BusinessEvent>

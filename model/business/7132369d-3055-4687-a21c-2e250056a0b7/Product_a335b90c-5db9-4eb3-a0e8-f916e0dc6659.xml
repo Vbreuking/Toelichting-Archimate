@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brood"
+    id="a335b90c-5db9-4eb3-a0e8-f916e0dc6659"
+    documentation="Brood is iets dat gemaakt wordt door ...., bestaat uit..., in verschillende meerdere soorten wordt geproduceerd, te weten ..... en bestaat uit .....">
+  <properties
+      key="CORA concepttype"
+      value="Product"/>
+</archimate:Product>

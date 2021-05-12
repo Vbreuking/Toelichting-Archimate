@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bakker"
+    id="9c217c4a-cc3b-45d3-b121-c0e1ac266a92"
+    documentation="De persoon die het beroep bakker uitoefent">
+  <properties
+      key="CORA concepttype"
+      value="Uitvoerende rol"/>
+</archimate:BusinessRole>

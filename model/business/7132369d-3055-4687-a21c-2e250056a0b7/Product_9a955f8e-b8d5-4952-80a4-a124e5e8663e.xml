@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tarwe brood"
+    id="9a955f8e-b8d5-4952-80a4-a124e5e8663e"
+    documentation="Dit is een specifiek soort brood en daarom dus een specialisatie">
+  <properties
+      key="CORA concepttype"
+      value="Product"/>
+</archimate:Product>

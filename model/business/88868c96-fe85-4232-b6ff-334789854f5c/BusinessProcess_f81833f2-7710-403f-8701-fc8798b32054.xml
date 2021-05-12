@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afrekenen"
+    id="f81833f2-7710-403f-8701-fc8798b32054">
+  <properties
+      key="CORA concepttype"
+      value="Processtap"/>
+</archimate:BusinessProcess>

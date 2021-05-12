@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zout"
+    id="c347c858-f73f-40d4-8d4b-16cfcb726a28"
+    documentation="Tot slot is dit niet noodzakelijk ingredient van brood en is dus sprake van een aggeratie">
+  <properties
+      key="CORA concepttype"
+      value="Bedrijfsobject"/>
+</archimate:BusinessObject>

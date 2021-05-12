@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natuurlijk persoon"
+    id="5e17dc9c-2e4e-4407-aa62-59ad1a437dbf">
+  <properties
+      key="CORA concepttype"
+      value="Actor"/>
+</archimate:BusinessActor>

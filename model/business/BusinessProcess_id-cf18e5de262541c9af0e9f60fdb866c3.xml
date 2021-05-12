@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stap 2a"
+    id="id-cf18e5de262541c9af0e9f60fdb866c3">
+  <properties
+      key="CORA-concepttype"
+      value="Processtap of handeling"/>
+</archimate:BusinessProcess>

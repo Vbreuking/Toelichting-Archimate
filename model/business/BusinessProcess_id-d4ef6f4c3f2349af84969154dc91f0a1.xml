@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces verhuur"
+    id="id-d4ef6f4c3f2349af84969154dc91f0a1"
+    documentation="Dit is het proces dat is ingericht om de gevraagde dienst te kunnen leveren aan de (externe of interne) klant. ">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Volkoren brood"
+    id="3dcdc373-5286-4b69-81b7-fdffb18105c2"
+    documentation="Dit is ook een specifiek soort brood en dus ook daarom een specialisatie">
+  <properties
+      key="CORA concepttype"
+      value="Product"/>
+</archimate:Product>

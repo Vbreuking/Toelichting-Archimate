@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Water"
+    id="9b576564-2304-452b-bbf2-fad28b9d2268"
+    documentation="Dit is een ingredient die nodig kan zijn om brood te kunnen maken, maar dat kan ook met melk. Daarom is hier sprake van een aggeratie">
+  <properties
+      key="CORA concepttype"
+      value="Bedrijfsobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meel"
+    id="b52a2fa1-5651-4197-a72a-7bd225bc6a31"
+    documentation="Ook dit is een ingredient dat nodig kan zijn om brood te kunnen maken, maar het kan ook met bijvoorbeeld rogge. Daarom is hier sprake van een aggeratie">
+  <properties
+      key="CORA concepttype"
+      value="Bedrijfsobject"/>
+</archimate:BusinessObject>

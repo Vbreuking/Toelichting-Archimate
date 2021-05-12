@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkoper"
+    id="c6d2698c-c9b2-4c13-9229-5bc461c6ecb6">
+  <properties
+      key="CORA concepttype"
+      value="Uitvoerende rol"/>
+</archimate:BusinessRole>
