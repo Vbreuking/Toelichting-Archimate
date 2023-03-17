@@ -1,0 +1,18 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdracht geplande voorinspectie verstrekt"
+    id="id-db8a137653374e1f9dfbbb2c568b2c34"
+    documentation="Procesboek: Opdracht voorinspectie">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger werkproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.1"/>
+  <properties
+      key="Aedes processenboek"
+      value="Ja"/>
+</archimate:BusinessEvent>

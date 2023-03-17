@@ -1,0 +1,18 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huurovereenkomst beëindigd"
+    id="id-594b3a822e39490d85c71381895ecb2d"
+    documentation="Dit is de huurovereenkomst die op initiatief van huurder of verhuurder (met inachtneming van de opzegtermijn) is ontbonden en daarmee het exclusief gebruiksrecht en daaruit voortkomende rechten voor huurder is komen te vervallen per datum waarop de huurovereenkomst is beeindigd. ">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+</archimate:BusinessService>

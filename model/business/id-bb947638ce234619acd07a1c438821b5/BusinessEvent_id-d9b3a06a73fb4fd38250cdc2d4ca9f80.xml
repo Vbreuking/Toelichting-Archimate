@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek beeïndigen huurovereenkomst verwerkt"
+    id="id-d9b3a06a73fb4fd38250cdc2d4ca9f80">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Bron"
+      value="CORA 4.1"/>
+  <properties
+      key="Aedes processenboek"
+      value="Ja"/>
+</archimate:BusinessEvent>
