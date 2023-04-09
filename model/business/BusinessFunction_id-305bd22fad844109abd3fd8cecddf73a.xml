@@ -1,0 +1,36 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiën primair"
+    id="id-305bd22fad844109abd3fd8cecddf73a"
+    documentation="Het zorgdragen voor alle inkomende betalingen en uitgaande facturen.">
+  <properties
+      key="CORA-concepttype"
+      value="Hoofdbedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Servicekosten"
+      value="Ja"/>
+  <properties
+      key="Reparatieonderhoud"
+      value="Ja"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+  <properties
+      key="Incasso"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsfunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Aedes processenboek"
+      value="Ja"/>
+  <properties
+      key="Sector specifiek"
+      value="Nee"/>
+</archimate:BusinessFunction>

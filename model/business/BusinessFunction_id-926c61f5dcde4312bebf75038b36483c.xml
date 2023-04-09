@@ -1,0 +1,36 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debiteurenbeheer"
+    id="id-926c61f5dcde4312bebf75038b36483c"
+    documentation="Het zorgdragen van de debiteuren administratie en daaruit voortkomende werkzaamheden alsmede het signaleren van ontstane achterstanden.">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Servicekosten"
+      value="Ja"/>
+  <properties
+      key="Reparatieonderhoud"
+      value="Ja"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+  <properties
+      key="Incasso"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsfunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Aedes processenboek"
+      value="Ja"/>
+  <properties
+      key="Sector specifiek"
+      value="Nee"/>
+</archimate:BusinessFunction>

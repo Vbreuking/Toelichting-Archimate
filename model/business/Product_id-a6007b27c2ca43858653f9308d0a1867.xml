@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gefaciliteerde organisatie"
+    id="id-a6007b27c2ca43858653f9308d0a1867"
+    documentation="Gefaciliteerde organisatie is een organisatie die secundaire of ondersteunende diensten aan zichzelf levert en/of door derden laat leveren om daarmee de primaire activiteiten te kunnen uitvoeren gericht op het leveren van producten en diensten aan klanten.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+  <properties
+      key="Planmatig onderhoud"
+      value="Ja"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+  <properties
+      key="Reparatieonderhoud"
+      value="Ja"/>
+  <properties
+      key="Servicekosten"
+      value="Ja"/>
+  <properties
+      key="Wederverkoop"
+      value="Ja"/>
+  <properties
+      key="(Her)ontwikkeling eenheden"
+      value="Ja"/>
+  <properties
+      key="Splitsen vastgoed"
+      value="Ja"/>
+  <properties
+      key="P&amp;D model"
+      value="Ja"/>
+</archimate:Product>

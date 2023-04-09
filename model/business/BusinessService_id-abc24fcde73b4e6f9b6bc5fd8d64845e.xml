@@ -1,0 +1,36 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geïnspecteerd vastgoed"
+    id="id-abc24fcde73b4e6f9b6bc5fd8d64845e"
+    documentation="Voor diverse doeleinden (zoals beoordelen onderhoudsverzoeken, periodieke conditiemetingen of bijvoorbeeld woningopleveringen) worden vastgoedinspecties uitgevoerd door (of in opdracht van) de woningcorporatie">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.2"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+  <properties
+      key="Planmatig onderhoud"
+      value="Ja"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+  <properties
+      key="Reparatieonderhoud"
+      value="Ja"/>
+  <properties
+      key="Wederverkoop"
+      value="Ja"/>
+  <properties
+      key="(Her)ontwikkeling eenheden"
+      value="Ja"/>
+  <properties
+      key="P&amp;D model"
+      value="Ja"/>
+  <properties
+      key="Te actualiseren"
+      value="Jaarlijks"/>
+</archimate:BusinessService>

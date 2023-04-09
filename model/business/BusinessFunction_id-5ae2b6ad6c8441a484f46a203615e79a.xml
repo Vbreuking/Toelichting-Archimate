@@ -1,0 +1,33 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contracteren"
+    id="id-5ae2b6ad6c8441a484f46a203615e79a"
+    documentation="Het zorgdragen voor het verhuur van het vastgoed van de woningcorporatie aan doelgroepen van beleid.">
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+  <properties
+      key="Planmatig onderhoud"
+      value="Ja"/>
+  <properties
+      key="(Her)ontwikkeling eenheden"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsfunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Aedes processenboek"
+      value="Ja"/>
+  <properties
+      key="Sector specifiek"
+      value="Ja"/>
+</archimate:BusinessFunction>

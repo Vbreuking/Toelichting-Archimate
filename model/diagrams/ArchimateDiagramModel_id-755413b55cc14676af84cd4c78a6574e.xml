@@ -308,20 +308,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2d5bee23811b4a4e997bbc0aa02dffef"
-        fillColor="#f9b47b"
-        textPosition="1">
-      <bounds
-          x="1356"
-          y="30"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_id-594b3a822e39490d85c71381895ecb2d.xml#id-594b3a822e39490d85c71381895ecb2d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9e93b70fdfb447778167de9f85def3b4"
         fillColor="#f9b47b"
         textPosition="1">
@@ -479,6 +465,20 @@
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-b827033d9f4b4728981cf1f5f9ef3e0e.xml#id-b827033d9f4b4728981cf1f5f9ef3e0e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6ba8808c61584cd8aad8c57ed83ef66f"
+        fillColor="#f9b47b"
+        textPosition="1">
+      <bounds
+          x="1356"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-2ac454f39f244313833831b5c75c4467.xml#id-2ac454f39f244313833831b5c75c4467"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>

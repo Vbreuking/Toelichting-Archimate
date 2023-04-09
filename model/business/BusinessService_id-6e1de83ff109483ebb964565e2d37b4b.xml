@@ -1,0 +1,27 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exclusief gebruiksrecht huureenheid"
+    id="id-6e1de83ff109483ebb964565e2d37b4b"
+    documentation="Het exclusieve gebruiksrecht huureenheid aan huurders betreft de overeengekomen dienst waarbij (mede)huurder exclusief het gebruiksrecht heeft verkregen voor de overeengekomen periode van vastgoed dat in eigendom is van de woningcorporatie en waarbij de woningcorporatie zorg draagt voor het adequaat beheer en onderhoud van dit vastgoed.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+  <properties
+      key="Planmatig onderhoud"
+      value="Ja"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+  <properties
+      key="(Her)ontwikkeling eenheden"
+      value="Ja"/>
+  <properties
+      key="P&amp;D model"
+      value="Ja"/>
+</archimate:BusinessService>

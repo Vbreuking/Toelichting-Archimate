@@ -1,0 +1,27 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Primair financieel management"
+    id="id-e169e19fe19549d5b7c5ab9e97aeb7ea"
+    documentation="Primair financieel management is het zorgdragen dat voor de betaalbare te leveren diensten facturen worden verstuurd en de daaruit voortkomende vorderingen 'op tijd' worden ontvangen.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+  <properties
+      key="Reparatieonderhoud"
+      value="Ja"/>
+  <properties
+      key="Servicekosten"
+      value="Ja"/>
+  <properties
+      key="Incasso"
+      value="Ja"/>
+  <properties
+      key="P&amp;D model"
+      value="Ja"/>
+</archimate:Product>
