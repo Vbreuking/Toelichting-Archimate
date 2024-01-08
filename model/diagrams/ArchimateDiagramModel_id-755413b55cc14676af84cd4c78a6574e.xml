@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verhuurproces corporatie productspecifiek"
-    id="id-755413b55cc14676af84cd4c78a6574e">
+    id="id-755413b55cc14676af84cd4c78a6574e"
+    documentation="Een voorbeeld van huuropzegging zoals dat vaak wordt uitgewerkt, maar waarbij te onderscheiden producten en diensten in aparte banen wordt uitgewerkt. Daarom is ook de stap 'Opdracht uitvoeren inspectie' toegevoegd.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-8f3bcd9073bc42fdb2e736eb033de0c8"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toelichting Archimate relaties"
-    id="40be9a8e-e393-4963-bb6a-b39a29dfa3a2">
+    id="40be9a8e-e393-4963-bb6a-b39a29dfa3a2"
+    documentation="In Archimate worden verschillende type relaties gebruikt die een specifieke betekenis hebben. Hopelijk helpen deze voorbeelden om ze beter te begrijpen.&#xD;&#xA;&lt;/br>&#xD;&#xA;Een boterham kan niet bestaan zonder een brood, maar brood kan wel zonder het ingrediënt zout gefabriceerd worden. Brood en boterham is een compositie, Brood en zout is een aggregatie.&#xD;&#xA;&lt;/br>&#xD;&#xA;Het belang van het type relatie is groot om te komen tot een eenduidig begrippenkader. En daarbij is het onderscheid van een compositie en een aggregatie vaak moeilijk te begrijpen. Hierbij een tip die je daarbij kan helpen:&#xD;&#xA;* Bij een compositie kan het onderliggende element niet bestaan zonder het bovenliggende element.&#xD;&#xA;* Bij een aggregatie is dat wel mogelijk.&#xD;&#xA;&lt;/br>&#xD;&#xA;Voorbeelden van copositie relaties zijn:&#xD;&#xA;* Brood en boterham (een boterham kan niet bestaan zonder een brood. Een brood kan wel bestaan zonder boterham zolang het niet wordt gesneden)&#xD;&#xA;* Pand en verblijfsobject (een verblijfsobject kan niet bestaan zonder een pand. Een pand kan wel bestaan zonder verblijfsobject)&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="95f75d43-8fbf-43b8-b154-019c1f6d1abd"
@@ -22,7 +23,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="324"
           y="48"
@@ -79,7 +81,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="324"
           y="48"
@@ -95,7 +98,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="6e6edddd-6c99-45ad-a27f-3e2ee28eefd4"
@@ -150,7 +154,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="48"
           y="72"
@@ -166,7 +171,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ce08d181-6681-42d9-a96c-57a4e85169ae"
@@ -191,7 +197,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="a97612ff-a72d-4846-a59a-2a5cc4a2a83f"
@@ -233,7 +240,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="324"
           y="48"
@@ -250,7 +258,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="324"
           y="120"
@@ -267,7 +276,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="324"
           y="192"
@@ -284,7 +294,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="324"
           y="264"
@@ -300,7 +311,8 @@
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#1e8ac8"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="e065f10d-d6a4-4fed-9c26-27e4e1911fdc"

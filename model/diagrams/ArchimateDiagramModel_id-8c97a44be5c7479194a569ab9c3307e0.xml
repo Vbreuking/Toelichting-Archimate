@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verhuurproces corporatie gebundeld"
-    id="id-8c97a44be5c7479194a569ab9c3307e0">
+    id="id-8c97a44be5c7479194a569ab9c3307e0"
+    documentation="Een voorbeeld van huropzegging zoals dat vaak wordt uitgewerkt">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-0b5c59a955b64c16933780f992832ff7"
