@@ -7,8 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18af0f1c-4c86-404b-8183-b0912c950a0c"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="156"
         y="84"
@@ -21,8 +20,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f28c3d2f-81ce-4174-bc8b-e2f53f1ef3b2"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="468"
         y="84"
@@ -93,8 +91,7 @@
       id="260d43bc-cb9f-4547-89a6-fab0658e394c"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#400040"
-      fillColor="#f58220"
-      type="1">
+      fillColor="#f58220">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="609976cc-f998-45fa-91b5-36b8728c4d98"
@@ -131,8 +128,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="06861334-33b2-4624-9d83-89d1b1288644"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1bee7778-e972-44ae-b4d6-bfb3e8365063"
@@ -153,8 +149,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="81acb14a-5d92-4533-b7b7-9efaa2d09d97"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="3ac353a3-0333-40bc-af15-7f16f672a940"
@@ -338,8 +333,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a43f48df-b4bd-48c1-8fc2-b06def93fc69"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="501cff9b-15b3-4930-8037-7f476c3ae54e"
@@ -360,8 +354,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="49e786e1-8b61-4bde-9d76-290037222879"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="dea2d63a-6ed4-46f0-b8a4-205d09b0e6ef"
@@ -382,8 +375,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9eca8228-fe50-4ef5-bbdc-c202e1df4aea"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="12d87de5-e97a-4624-9704-dca516da93c4"
