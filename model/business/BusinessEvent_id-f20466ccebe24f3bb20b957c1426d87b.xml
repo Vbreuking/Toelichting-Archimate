@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geplande eindinspectie uitgevoerd"
+    id="id-f20466ccebe24f3bb20b957c1426d87b">
+  <properties
+      key="Aedes processenboek"
+      value="Ja"/>
+</archimate:BusinessEvent>

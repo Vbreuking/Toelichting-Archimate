@@ -1,0 +1,18 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspectie rapport huuropzegging"
+    id="id-c87e32316bf24e67b4e9523daae0bb49"
+    documentation="Dit betreft de inspectie (door of in opdracht van de woningcorporatie) van de eenheid waarin bepaald wordt welke eventuele noodzakelijk geachte onderhoudswerkzaamheden in rekening worden gebracht door de woningcorporatie op basis van de eerder gemaakte afspraken uit de voorinspectie.">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Verhuurmutatie"
+      value="Ja"/>
+</archimate:BusinessService>
