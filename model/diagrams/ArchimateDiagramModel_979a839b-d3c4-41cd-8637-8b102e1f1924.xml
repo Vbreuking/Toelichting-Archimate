@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="De gedetailleerde bedrijfsvoering van de 'bakkerij'"
     id="979a839b-d3c4-41cd-8637-8b102e1f1924"
-    documentation="Samenhang diensten, functies, processen en organisatie">
+    documentation="Deze figuur toont de samenhang tussen de diensten, functies, processen en organisatie van de bakkerij.&#xD;&#xA;=== Toelichting figuur ===&#xD;&#xA;Dagelijks start het proces van de bakkerij met het bakken van een nieuwe voorraad vers gebakken broden. Het werkproces 'Brood bakken' toont welke processtappen achter elkaar uitgevoerd moeten worden om het resultaat afgebakken brood te ealiseren. &lt;br />&#xD;&#xA;Zodra de productieafdeling haar werkzaamheden heeft afgerond kan de voorraad naar de winkel(s) om aldaar in de broodrekken klaargezet te worden zodat de klant uit de beschikbare voorraad kan kiezen welk brood die wil kopen. Tussen etalleren en selecteren is geen pijltje getrokken omdat het niet zeker is of er een klant komt die het betreffende brood wil kopen. Normaliter is dat wel het geval, maar er wordt in het proces ook uitgegaan dat er broden onverkocht overblijven. Wat er met die onverkochte broden gebeurt is hier niet uitgewerkt. &lt;br />&#xD;&#xA;Zodra een klant een brood kiest kan die aangeven of het brood gesneden moet worden. vercolgens wordt het brood ingepakt en afgerekend. De eindgebeurtenis van de processtap afrekenen is dat het brood verkocht is.&lt;br />&#xD;&#xA;Het verschil tussen de kPi's 'Aantal bebakken broden' en 'Aantal verkochte broden' is het 'Aantal  onverkochte broden'.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0da0ec8a-9ae5-4ef6-8829-b7f9184bc70d"
@@ -242,6 +242,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6b189c016f664942acfdeba052222286"
+        targetConnections="id-0e64690d17b74c71a70a20c269fcc70a"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -742,6 +743,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="aba359f0-c2dc-4928-9fb4-d3f587333236"
+      targetConnections="id-81e85af122bf402ead3918d36052af4f"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -909,5 +911,47 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-e705541aa06b489f8bb617dc0399e889.xml#id-e705541aa06b489f8bb617dc0399e889"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ff818cf1015c4da1b08e6c3ce731b11e"
+      textPosition="1"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0e64690d17b74c71a70a20c269fcc70a"
+        source="id-ff818cf1015c4da1b08e6c3ce731b11e"
+        target="id-6b189c016f664942acfdeba052222286">
+      <bendpoints
+          startX="-85"
+          startY="-3"
+          endX="144"
+          endY="321"/>
+      <bendpoints
+          startX="-85"
+          startY="-327"
+          endX="144"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-12c032c9cda24093a3ae1b2419a56586.xml#id-12c032c9cda24093a3ae1b2419a56586"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-81e85af122bf402ead3918d36052af4f"
+        source="id-ff818cf1015c4da1b08e6c3ce731b11e"
+        target="aba359f0-c2dc-4928-9fb4-d3f587333236">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-8339d56e26db40d484052b1cf5dfc0ae.xml#id-8339d56e26db40d484052b1cf5dfc0ae"/>
+    </sourceConnections>
+    <bounds
+        x="1021"
+        y="312"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-674b6c6a26354804918f33d52a1be4d0.xml#id-674b6c6a26354804918f33d52a1be4d0"/>
   </children>
 </archimate:ArchimateDiagramModel>
