@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afgebakken brood verkocht"
+    id="id-e705541aa06b489f8bb617dc0399e889">
+  <properties
+      key="CORA concepttype"
+      value="Gebeurtenis"/>
+</archimate:BusinessEvent>
